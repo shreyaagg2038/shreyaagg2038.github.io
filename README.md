@@ -1,4 +1,2 @@
-# ab490.github.io
+# shreyaagg2038
 My GitHub pages repository
-
-https://ab490.github.io/
